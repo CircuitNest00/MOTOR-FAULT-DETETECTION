@@ -43,13 +43,9 @@ The MPU6050 and DS18B20 send readings to the ESP32. The ESP32 compares those rea
 
 The Arduino IDE source code is included in this repository: [`motor_fault_detection.ino`](motor_fault_detection.ino).
 
-> Replace `motor_fault_detection.ino` with the exact name of your uploaded code file if it is different.
-
 ## Project Image
 
-![DC Motor Fault Detection Project](motor_project_photo.jpg)
-
-> Replace `motor_project_photo.jpg` with the exact name of your uploaded project image.
+![DC Motor Fault Detection Project](DC.jpg)
 
 ## How It Works
 
