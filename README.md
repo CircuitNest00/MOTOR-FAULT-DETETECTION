@@ -45,7 +45,7 @@ The Arduino IDE source code is included in this repository: [`motor_fault_detect
 
 ## Project Image
 
-![DC Motor Fault Detection Project](DC.jpg)
+![DC Motor Fault Detection Project](DC.png)
 
 ## How It Works
 
