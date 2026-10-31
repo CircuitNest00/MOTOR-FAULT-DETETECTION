@@ -33,6 +33,10 @@ The MPU6050 and DS18B20 send readings to the ESP32. The ESP32 compares those rea
 | 12 V lithium-ion battery | 1 | Powers the motor |
 | Buzzer | 1 | Provides an audible fault alert |
 
+## Circuit Diagram
+
+![dc_motor_fault_detection_circuit_diagram](circuitdiag.png)
+
 ## Software and Tools
 
 - Programming language: Arduino C/C++
